@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.caincatte.gildednetherite.mixin",
+  "compatibilityLevel": "JAVA_18",
+  "mixins": [
+    "ArmorItemMixin",
+    "EntityMixin",
+    "PiglinBrainMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

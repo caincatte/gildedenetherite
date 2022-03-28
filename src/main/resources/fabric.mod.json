@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "gildednetherite",
+  "version": "${version}",
+
+  "name": "Gilded Netherite",
+  "description": "Swim in lava with your new armor",
+  "authors": [
+    "caincatte // gdude2002"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/gilded-netherite",
+    "sources": "https://github.com/caincatte/GuildedNetherite"
+  },
+
+  "license": "ARR",
+  "icon": "assets/gildednetherite/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.caincatte.gildednetherite.GildedNetherite"
+    ]
+  },
+  "mixins": [
+    "gildednetherite.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

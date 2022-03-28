@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GNG",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "gildednetherite:gilded_netherite",
+    "count": 1
+  }
+}

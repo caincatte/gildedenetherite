@@ -1,0 +1,16 @@
+{
+  "advancements.gildednetherite.soup.title": "Hrngh... soup...",
+  "advancements.gildednetherite.soup.description": "Go ahead, you know you want to do it",
+
+  "itemGroup.gildednetherite.gilded_netherite_group": "Gilded Netherite",
+
+  "item.gildednetherite.gilded_netherite": "Gilded Netherite",
+  "item.gildednetherite.gilded_netherite_helmet": "Gilded Netherite Helmet",
+  "item.gildednetherite.gilded_netherite_chestplate": "Gilded Netherite Chestplate",
+  "item.gildednetherite.gilded_netherite_leggings": "Gilded Netherite Leggings",
+  "item.gildednetherite.gilded_netherite_boots": "Gilded Netherite Boots",
+
+  "subtitles.item.armor.equip_gildednetherite": "Gilded Netherite armor clanks",
+
+  "item.gildednetherite.golden_porkchop": "Golden Porkchop"
+}
