@@ -10,10 +10,10 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/gilded-netherite",
-    "sources": "https://github.com/caincatte/GuildedNetherite"
+    "sources": "https://github.com/caincatte/gildedenetherite"
   },
 
-  "license": "ARR",
+  "license": "MIT",
   "icon": "assets/gildednetherite/icon.png",
 
   "environment": "*",
